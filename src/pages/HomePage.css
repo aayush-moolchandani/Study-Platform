@@ -55,6 +55,7 @@
   font-size: 2.5rem;
   font-weight: 700;
   line-height: 1;
+  color: white;
 }
 
 .stat-label {
@@ -64,6 +65,7 @@
   margin-top: 5px;
   text-transform: uppercase;
   letter-spacing: 1px;
+  color: white;
 }
 
 .sections-container {
